@@ -1,6 +1,7 @@
 # Electric Aircraft Design
 
-Python script that may be used to size a small to mid-size aircraft. 
+This repo contains helpful information to design and scratchbuild a small to mid-size RC electric aircraft. 
+
 ## Helpful links:
 * [Airfield Models Design](https://www.airfieldmodels.com/)
 * [Rule of Thumb for Foamies](https://sites.google.com/site/robertclaus/rules-of-thumb-for-rc-foamies-gliders)
